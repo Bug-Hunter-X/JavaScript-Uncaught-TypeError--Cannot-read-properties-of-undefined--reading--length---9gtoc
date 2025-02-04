@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript program demonstrating a common error: attempting to access the 'length' property of an undefined variable. The bug.js file shows the problematic code. The bugSolution.js file offers a corrected version, adding a check for undefined values to prevent the error.
